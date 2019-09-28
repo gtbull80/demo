@@ -1,0 +1,16 @@
+{
+  "FilePath": "w:\\Tutorials\\DevOps\\Azure\\Implementing-Web-and-Mobile-Services-on-Microsoft-Azure\\demo-web-app\\demo\\demo.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "demo",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
